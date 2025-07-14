@@ -76,7 +76,7 @@ cd us-state-population-by-region
 ```
 
 ### Open the Report
-Open `us-state-population-dashboard.pbix` in Power BI Desktop and interact with the visuals.
+Open `` in Power BI Desktop and interact with the visuals.
 
 ---
 
