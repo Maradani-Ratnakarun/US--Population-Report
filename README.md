@@ -76,7 +76,7 @@ cd us-state-population-by-region
 ```
 
 ### Open the Report
-Open `https://github.com/Maradani-Ratnakarun/US--Population-Report/blob/main/firstproject.pbix` in Power BI Desktop and interact with the visuals.
+Open [US-Population-Dashboard](firstproject.pbix) in Power BI Desktop and interact with the visuals.
 
 ---
 
