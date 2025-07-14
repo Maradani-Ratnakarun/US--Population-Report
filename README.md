@@ -56,7 +56,9 @@ _Source_: United States Census Bureau – Historical Population Data
 
 | Regional Trends (1950–2015)       | State-wise Growth |
 |------------------------------------|--------------------|
-| ![Regional Trends](images/region_trends.png) | ![State Growth](images/state_growth.png) |
+| ![Regional Trends](<img width="633" height="355" alt="region_trends" src="https://github.com/user-attachments/assets/6197ea0b-6efc-4017-b707-256873e67c94" />
+) | ![State Growth](<img width="599" height="361" alt="growthrate" src="https://github.com/user-attachments/assets/3e5a1c6c-357f-4fa8-a48c-cf20e45aee13" />
+) |
 
 ---
 
