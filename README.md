@@ -72,7 +72,7 @@ _Source_: United States Census Bureau – Historical Population Data
 ### Clone the Repository
 ```bash
 git clone https://github.com/Maradani-Ratnakarun/US--Population-report.git
-cd us-state-population-by-region
+cd  US--Population-report.git
 ```
 
 ### Open the Report
